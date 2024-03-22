@@ -8,6 +8,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m a Systems Analyst
-- 💬 I’m currently learning cloud computing and low-code
+- 🔭 I’m a Mainframe Developer
+- 💬 I’m currently learning Cloud Computing and Low-Code
 - 📫 How to reach me: amanda_sericolla@yahoo.com.br
