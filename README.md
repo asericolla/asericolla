@@ -1,13 +1,12 @@
-### Hi there 👋
+
 
 <!--
 **asericolla/asericolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+![My first design](https://github.com/asericolla/asericolla/assets/149605821/32d0f842-197e-4010-9680-7b231c5ea972)
 
-![Designer - editadp](https://github.com/asericolla/asericolla/assets/149605821/e63a7714-48b2-40d0-ac1d-34872b43afa3)
-
-
+### Hi there 👋
 
 - 🔭 I’m a Systems Analyst
 - 💬 I’m currently learning cloud computing and low-code
